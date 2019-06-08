@@ -1,0 +1,8 @@
+{
+    "name": "peter-bot",
+    "version": "1.0.0",
+    "description": "Peter Bot",
+    "main": "bot.js",
+    "author": "i bims der peter",
+    "dependencies": {}
+  }
