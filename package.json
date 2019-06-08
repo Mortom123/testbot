@@ -4,5 +4,8 @@
     "description": "Peter Bot",
     "main": "bot.js",
     "author": "i bims der peter",
-    "dependencies": {}
-  }
+    "dependencies": {
+        "discord.io": "^2.5.3",
+        "winston": "^3.2.1"
+    }
+}
